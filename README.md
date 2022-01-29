@@ -5,6 +5,5 @@ Feel free to compile them, heh.
 
 This was my first time touching to Java. I had to use swing and only could only use .txt files. 
 
-I forgot to created them in case the files do not exist because I'm a dummy.
-Sorry :( 
+I forgot to create them in case the txt files do not exist. Sorry I'm a dummy :( 
 
